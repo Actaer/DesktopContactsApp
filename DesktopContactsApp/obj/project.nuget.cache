@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "HHLny07kctwaGtfd6fY+deZPLDbAqRKJqNfJ3LsO72kX5fIeVkrl1ZGAcrnWOXl3pp/P29xSHgsQXDa36Pni0A==",
+  "success": true,
+  "projectFilePath": "G:\\OOP2\\OOP2\\DesktopContactsApp\\DesktopContactsApp\\DesktopContactsApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adnan\\.nuget\\packages\\sqlite-net-pcl\\1.8.116\\sqlite-net-pcl.1.8.116.nupkg.sha512",
+    "C:\\Users\\adnan\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.0.4\\sqlitepclraw.bundle_green.2.0.4.nupkg.sha512",
+    "C:\\Users\\adnan\\.nuget\\packages\\sqlitepclraw.core\\2.0.4\\sqlitepclraw.core.2.0.4.nupkg.sha512",
+    "C:\\Users\\adnan\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.4\\sqlitepclraw.lib.e_sqlite3.2.0.4.nupkg.sha512",
+    "C:\\Users\\adnan\\.nuget\\packages\\sqlitepclraw.provider.dynamic_cdecl\\2.0.4\\sqlitepclraw.provider.dynamic_cdecl.2.0.4.nupkg.sha512",
+    "C:\\Users\\adnan\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
